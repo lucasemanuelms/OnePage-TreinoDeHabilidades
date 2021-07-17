@@ -34,12 +34,12 @@ header{
 .menu{
     list-style: none;
 }
-li{
+.menu li{
     font-size: 14px;
     float: left;
     margin: 10px 0 10px 30px;
 }
-li:hover{
+.menu li:hover{
     color: #3194db;
     cursor: pointer;
     transition: 0.3s;
@@ -101,7 +101,7 @@ h1{
     display: inline-block;
     width: 250px;
     text-align: left;
-    margin-left: 25px;
+    margin-left: 18px;
     margin-bottom: 70px;
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 0, 1, 15%);
@@ -128,17 +128,4 @@ h1{
     margin-bottom: 15px;
     color: #2487ce;
     font-size: 30px;
-}
-.txt-about{
-    text-align: center;
-    padding: 80px 0 25px;
-}
-.txt-about h2{
-    color: #124265;
-    font-size: 32px;
-    margin-bottom: 20px;
-}
-.txt-about p{
-    font-size: 14px;
-    color: #5e5e5e;
 }
