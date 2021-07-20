@@ -199,3 +199,37 @@ h1{
     cursor: pointer;
     transition: 0.4s;
 }
+
+/* Criação da section 3 */
+#section-3{
+    background-color: #2487ce;
+    color: white;
+    padding: 60px 0;
+}
+#container2{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+#container2 h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+#container2 p{
+    margin-bottom: 20px;
+}
+#container2 input{
+    padding: 13px 40px;
+    background-color: #2487ce;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#container2 input:hover{
+    background-color: white;
+    color: #2487ce;
+    cursor: pointer;
+    transition: 0.4s;
+}
