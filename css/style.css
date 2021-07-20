@@ -233,3 +233,52 @@ h1{
     cursor: pointer;
     transition: 0.4s;
 }
+
+/* Criação da section4 */
+#section-4{
+    padding: 80px 0;
+}
+#container-contact{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 35px;
+}
+#container-form{
+    width: 80%;
+    margin: auto;
+}
+#name{
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+}
+#email{
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+}
+#subject{
+    display: block;
+    width: 600px;
+    height: 50px;
+    padding: 10px;
+    margin: 15px 0;
+}
+#message{
+    width: 600px;
+    height: 100px;
+    padding: 10px;
+    resize: none;
+}
+#bt-send-message{
+    display: block;
+    margin-top: 15px;
+    padding: 15px 30px;
+    background-color: #3194db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
