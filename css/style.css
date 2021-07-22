@@ -203,7 +203,7 @@ h1{
 #section-3{
     background-color: #2487ce;
     color: white;
-    padding: 60px 0;
+    padding: 60px 0 45px 0;
 }
 #container2{
     width: 80%;
@@ -298,5 +298,23 @@ h1{
 .bt-send-message:hover{
     cursor: pointer;
     background-color: #469fdf;
+}
+
+/* Criação do footer */
+footer{
+    background-color: #2487ce;
+    padding: 20px 0;
+}
+#container-footer{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+}
+#a-footer{
+    text-decoration: none;
+    color: #124265;
 }
 
