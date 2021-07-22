@@ -1,2 +1,2 @@
 # OnePage-TreinoDeHabilidades
- Treinando HTML e CSS
+ Treinando HTML5 e CSS3
